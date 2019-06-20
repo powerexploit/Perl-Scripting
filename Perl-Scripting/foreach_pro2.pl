@@ -5,7 +5,7 @@ foreach $a (@array1)
 {
 	if($a==3)
 	{
-		$a=20;
+		$a=30;
 	}
 	print "$a\n";
 }
