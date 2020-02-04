@@ -7,7 +7,7 @@
 </h1>
 
 # Perl-For-Beginners
-Perl is a suberp scripting language for pentesters & web developers this repository is desgined for beginners in perl programming so that they can learn how to contribute to open source. So fork the repo and contribute to it ! Make pull requests!and give your valuable star ✨
+Perl is a suberp scripting language for pentesters & web developers this repository is designed for beginners in perl programming so that they can learn how to contribute to open source. So fork the repo and contribute to it ! Make pull requests!and give your valuable star ✨
 
 ## Vision
   #### print "Learn basic perl scripting as pentesters"
